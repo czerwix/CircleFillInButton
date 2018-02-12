@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="circle_fill_in_button">
+        <attr name="numberOfStages" format="integer" />
+        <attr name="imageViewResource" format="reference" />
+        <attr name="subtextText" format="string" />
+        <attr name="subtextSize" format="dimension" />
+        <attr name="subtextColor" format="color" />
+        <attr name="textEntries" format="reference" />
+    </declare-styleable>
+</resources>
